@@ -1,13 +1,12 @@
 {
     "name": "EvaMariaBot",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "description": "When you a send file to a telegram channel this bot will save that in its database, So you can search for it easily in inline mode",
     "stack": "container",
     "keywords": [
       "telegram",
       "auto-filter",
       "filter",
       "best",
-      "indian",
       "pyrogram",
       "media",
       "search",
