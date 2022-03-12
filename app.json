@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://alldaneeds.gq",
+    "repository": "https://github.com/Darkmaster420/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -39,11 +39,11 @@
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
+            "description": "Add a telegraph link of pictures .",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "Bot Logs, Give a channel id with -100xxxxxxx",
             "required": true
         },
         "AUTH_USERS": {
@@ -51,7 +51,7 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "ID of channel. Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },
         "DATABASE_URI": {
