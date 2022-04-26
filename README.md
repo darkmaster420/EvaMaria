@@ -61,7 +61,7 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <a href="https://heroku.com/deploy">
-  <omg src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy Normally">
 </a>
 </p>
 </details>
