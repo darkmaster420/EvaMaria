@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
-<a href="https://heroku.com/deploy">
+<a href="https://heroku.com/deploy?template="https://github.com/darkmaster420/EvaMaria">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy Normally">
 </a>
 </p>
@@ -69,7 +69,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/darkmaster420/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -121,14 +121,4 @@ python3 bot.py
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To All Everyone In This Journey
 
-### Note
-
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
-
-Changing this code and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs.
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
