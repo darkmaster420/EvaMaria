@@ -1,8 +1,9 @@
 class script(object):
     START_TXT = """Hello {},
-My name is <a href=https://t.me/{}>{}</a>, I can send you Movies, Series and Movies via pm or inline mode. Try adding me to your group.
+My name is <a href=https://t.me/{}>{}</a>, I can send you Movies, Series and Music via pm or inline mode. Try adding me to your group.
 <a href=https://t.me/LightSpeedSearch_bot>Movies Bot</a>
-<a href=https://t.me/LightSpeedSeriesbot>Series Bot</a>"""
+<a href=https://t.me/LightSpeedSeriesbot>Series Bot</a>
+<a href=https://t.me/LightSpeedMusicbot>Music Bot</a>"""
     HELP_TXT = """Hey {}
 Here is the help page for my commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
